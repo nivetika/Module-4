@@ -23,7 +23,7 @@ print(dict3)
 
 ## Output
 
-<img width="805" height="165" alt="image" src="https://github.com/user-attachments/assets/d2a7e38a-0c74-4327-8cfc-cc2872aeb74b" />
+<img width="1110" height="220" alt="image" src="https://github.com/user-attachments/assets/d685a504-3b9e-4546-8635-a184223ff895" />
 
 ## Result
 Thus to write a Python program that merges **two dictionaries** and combines their key-value pairs is created and verified successfully.
